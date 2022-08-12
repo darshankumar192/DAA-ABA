@@ -9,6 +9,6 @@ HACKER RANK USERNAME: darshankumar192
 PROBLEM STATEMENT: LEVEL->> MEDIUM
 
 
-[S]()
+[SOLUTION 1](https://github.com/darshankumar192/DAA-ABA/blob/main/Pairs.java)
 
-[]()
+[SOLUTION 2]()
